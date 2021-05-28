@@ -1139,21 +1139,21 @@ sub { bottom: -0.25em; }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', sans-serif;
-    margin: 10px 0;
-    text-rendering: optimizelegibility;
+    font-family: 'Montserrat', sans-serif !important;
+    margin: 10px 0 !important;
+    text-rendering: optimizelegibility !important;
 }
 h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child {
-    margin-top: 0px;   
+    margin-top: 0px !important;   
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {}
 
-h1 { font-size: 36px; }
-h2 { font-size: 30px; }
-h3 { font-size: 24px; }
-h4 { font-size: 18px; }
-h5 { font-size: 14px; }
-h6 { font-size: 12px; }
+h1 { font-size: 36px !important; }
+h2 { font-size: 30px !important; }
+h3 { font-size: 24px !important; }
+h4 { font-size: 18px !important; }
+h5 { font-size: 14px !important; }
+h6 { font-size: 12px !important; }
 
 /* Lists */
 ul, ol {}
