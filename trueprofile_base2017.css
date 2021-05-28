@@ -62,6 +62,10 @@ video {
     padding: 0;
 }
 
+.hs-input hs-form-field span7{
+    margin-left: 1%;    
+}
+
 .hs-responsive-embed.hs-responsive-embed-pinterest iframe {
     position: static;
     width: auto;
