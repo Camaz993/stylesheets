@@ -1148,12 +1148,12 @@ h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, 
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {}
 
-h1 { font-size: 36px !important; }
-h2 { font-size: 30px !important; }
-h3 { font-size: 24px !important; }
-h4 { font-size: 18px !important; }
-h5 { font-size: 14px !important; }
-h6 { font-size: 12px !important; }
+h1 { font-size: 36px !important; font-weight:bold; }
+h2 { font-size: 30px !important; font-weight:bold; }
+h3 { font-size: 24px !important; font-weight:bold; }
+h4 { font-size: 18px !important; font-weight:bold; }
+h5 { font-size: 14px !important; font-weight:bold; }
+h6 { font-size: 12px !important; font-weight:bold; }
 
 /* Lists */
 ul, ol {}
