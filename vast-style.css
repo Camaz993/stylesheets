@@ -1142,7 +1142,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Montserrat', sans-serif !important;
     margin: 10px 0 !important;
     text-rendering: optimizelegibility !important;
-    font-weight:bold;
+    font-weight:bold !important;
 }
 h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child {
     margin-top: 0px !important;   
